@@ -23,5 +23,5 @@ Examples:
 
 |username|firstname|lastname|password|conf_password|email|mob|dob|address|sec_ans|
 |newname|uthra|whales|qwerty|qwerty|merc@gmail.com|1234567890|12-12-1997|perungalathur,chennai|orange|
-|shwesam|lalitha|abcdef|password123|password123|lali@gmail.com|2345678901|23-02-1987|coimbatore|red|
+|lalitha|lalitha|abcdef|password123|password123|lali@gmail.com|2345678901|23-02-1987|coimbatore|red|
 
